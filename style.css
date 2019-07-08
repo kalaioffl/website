@@ -1,0 +1,42 @@
+.kalai{
+	margin: 0 10% 0 10%;
+
+}
+p{
+	font-size: 20px;
+}
+.kgf{
+	font-color:   #ba732e;
+	font-size: 36px;
+
+
+}
+ul{
+	list-style-image: url('1.png');
+
+}
+
+
+}
+.para{
+	background-color: #d47777;
+	color: black;
+	border-radius: 25px;
+	border: 10px solid #f00;
+	width: 25%;
+	height: 25%;
+	
+   
+}
+.para-graph{
+	background-color: #d47777;
+	color: black;
+	border-radius: 25px;
+	border: 10px solid #f00;
+	width: 25%;
+	height: 25%;
+
+}
+h1{
+	font-size: 3em;
+}
